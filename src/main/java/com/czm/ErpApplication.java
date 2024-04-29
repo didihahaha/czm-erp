@@ -6,7 +6,6 @@ package com.czm;
  */
 public class ErpApplication {
     public static void main(String[] args) {
-
         System.out.println("ErpApplication hello 100 ");
     }
 }
